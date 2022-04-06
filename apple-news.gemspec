@@ -24,5 +24,4 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "activesupport"
   spec.add_dependency "multipart-post", "~> 2.1.1"
-  spec.add_dependency "multipart-post", "~> 2.1.1"
 end
